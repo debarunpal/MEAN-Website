@@ -1,0 +1,22 @@
+{
+  "name": "sampleapp",
+  "version": "1.0.0",
+  "description": "Sample Test App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debarunpal/MEAN-Website.git"
+  },
+  "author": "Debarun Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debarunpal/MEAN-Website/issues"
+  },
+  "homepage": "https://github.com/debarunpal/MEAN-Website#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
